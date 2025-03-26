@@ -51,7 +51,7 @@ exapp.get("/data", async (req, res) => {
   
 
 
-/* testing purposes only */
+/* Test Block */
 (async () => {
     const modrinth = new projectFinder();
     try {
