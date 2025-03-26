@@ -15,7 +15,7 @@ class projectFinder {
             offset = 0,
             limit = 15
         } = options;
-        //user indicated valuesw\
+        //user indicated values
         const request = {
             query: queryText,
             facets: JSON.stringify(facets),
